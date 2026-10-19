@@ -1,6 +1,6 @@
 # Personal Google tools
 
-Public application information and privacy policy for the owner's `gws-cli` OAuth application, used with gws, gogcli, and AI assistants.
+Public application information and privacy policy for the `gws-cli` OAuth application, used with gws, gogcli, and AI assistants for the operator's accounts and personally invited account holders who consent.
 
 - Application page: https://ferhtgoldaraz.github.io/personal-google-tools/
 - Privacy policy: https://ferhtgoldaraz.github.io/personal-google-tools/privacy.html
